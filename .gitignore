@@ -6,15 +6,6 @@
 **/build/
 *.tsbuildinfo
 
-# Output JS/TS
-*.js
-*.js.map
-*.d.ts
-
-# EXCEPTIONS
-!database.config.js
-!src/db/migrations/*.js
-
 # Logs
 npm-debug.log*
 yarn-debug.log*
